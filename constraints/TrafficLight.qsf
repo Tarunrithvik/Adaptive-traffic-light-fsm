@@ -1,0 +1,3 @@
+set_location_assignment PIN_J1 -to clk
+set_location_assignment PIN_A3 -to rst
+...
