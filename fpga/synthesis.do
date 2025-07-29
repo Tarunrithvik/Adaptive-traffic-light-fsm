@@ -1,0 +1,3 @@
+project_open TrafficLight
+execute_flow -compile
+project_close
